@@ -3,4 +3,4 @@ A simple offline application designed to assist in preparing for municipal elect
 
 ![feature](https://github.com/user-attachments/assets/bb5ae221-af96-4ad8-9ccd-0d63729949c0)
 
-Google Play: https://play.google.com/store/apps/details?id=com.martontoth.korzetker&pcampaignid=web_share
+Google Play: https://play.google.com/store/apps/details?id=com.martontoth.korzetker

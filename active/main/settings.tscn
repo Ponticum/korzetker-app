@@ -1,0 +1,487 @@
+[gd_scene load_steps=12 format=3 uid="uid://doq4ekjcoolyj"]
+
+[ext_resource type="Script" path="res://main/settings.gd" id="1_p7hsh"]
+[ext_resource type="Texture2D" uid="uid://bbttfdlt731o8" path="res://mats/sprites/bmcbrand/black-button.png" id="2_n3eye"]
+[ext_resource type="Texture2D" uid="uid://dve5vgi3gt0y2" path="res://mats/sprites/loading.png" id="3_0o8ly"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_w7g3l"]
+bg_color = Color(0.560784, 0.74902, 0.913725, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 6
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4ftcr"]
+bg_color = Color(0.560784, 0.74902, 0.913725, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 6
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dnias"]
+bg_color = Color(0.560784, 0.74902, 0.913725, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 6
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qgcfr"]
+content_margin_top = 10.0
+content_margin_bottom = 10.0
+bg_color = Color(0, 0, 0, 0)
+border_width_top = 3
+border_width_bottom = 3
+border_color = Color(0.560784, 0.74902, 0.913725, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ui5tg"]
+bg_color = Color(0, 0, 0, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_amrju"]
+bg_color = Color(0, 0, 0, 0.588235)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_g867a"]
+bg_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.956863, 0.956863, 0.956863, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+shadow_size = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uwlxb"]
+bg_color = Color(0, 0, 0, 0.588235)
+
+[node name="Settings" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_p7hsh")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="MarginContainer"]
+custom_minimum_size = Vector2(0, 32)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 20
+text = "Beállítások"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="Top" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Back" type="Button" parent="MarginContainer/VBoxContainer/Top"]
+layout_mode = 2
+text = " < Vissza "
+
+[node name="Space1" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+
+[node name="Center1" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Varos" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center1"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center1/Varos"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_w7g3l")
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Center1/Varos/PanelContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+text = "Város:"
+horizontal_alignment = 1
+
+[node name="City" type="OptionButton" parent="MarginContainer/VBoxContainer/Center1/Varos"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 16
+alignment = 1
+
+[node name="Uzenetek" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center1"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_4ftcr")
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/VBoxContainer/Center1/Uzenetek"]
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 0
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center1/Uzenetek/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Center1/Uzenetek/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+text = "Sötét mód"
+horizontal_alignment = 1
+
+[node name="SotetButton" type="CheckButton" parent="MarginContainer/VBoxContainer/Center1/Uzenetek/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = false
+
+[node name="Gyors" type="VBoxContainer" parent="MarginContainer/VBoxContainer/Center1"]
+layout_mode = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center1/Gyors"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_dnias")
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/VBoxContainer/Center1/Gyors/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 0
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center1/Gyors/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Center1/Gyors/PanelContainer/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+text = "Gyors mód"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="GyorsButton" type="CheckButton" parent="MarginContainer/VBoxContainer/Center1/Gyors/PanelContainer/MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/VBoxContainer/Center1/Gyors"]
+custom_minimum_size = Vector2(0, 38)
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 0
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 0
+
+[node name="RichTextLabel" type="Label" parent="MarginContainer/VBoxContainer/Center1/Gyors/MarginContainer"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+theme_override_font_sizes/font_size = 12
+text = "ⓘ Automatikusan vált a menük között.
+Csak rutinos körzetkeresőknek."
+horizontal_alignment = 1
+
+[node name="Space2" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+
+[node name="About" type="Label" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 32)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 20
+text = "Az alkalmazásról"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Center2" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center2"]
+layout_mode = 2
+alignment = 1
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Center2/HBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.839216, 0, 0.117647, 1)
+theme_override_font_sizes/font_size = 14
+text = "Hiányzó címek esetén használd"
+horizontal_alignment = 1
+
+[node name="LinkButton" type="LinkButton" parent="MarginContainer/VBoxContainer/Center2/HBoxContainer/Label"]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 50.0
+offset_top = -16.0
+offset_right = 155.0
+offset_bottom = 19.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="LinkButton" type="LinkButton" parent="MarginContainer/VBoxContainer/Center2/HBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.839216, 0, 0.117647, 1)
+theme_override_font_sizes/font_size = 14
+text = "ezt az oldalt!"
+uri = "https://vtr.valasztas.hu/onk2024/valasztopolgaroknak/szavazasi-informaciok/szavazohelyiseg-kereses"
+
+[node name="Space1" type="Control" parent="MarginContainer/VBoxContainer/Center2"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center2"]
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_qgcfr")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/VBoxContainer/Center2/PanelContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center2/PanelContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Label1" type="Label" parent="MarginContainer/VBoxContainer/Center2/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 14
+text = "Excel-Mágusok -
+
+
+
+Nagyon sokat tesztelt -"
+horizontal_alignment = 2
+
+[node name="Label2" type="Label" parent="MarginContainer/VBoxContainer/Center2/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 14
+text = "Bagi Rea
+Németh Csongor
+Ujlaki Emese
+
+Jedi mester Szabó Joci"
+
+[node name="Label3" type="Label" parent="MarginContainer/VBoxContainer/Center2/PanelContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 14
+text = "
+Köszi a többieknek is, nagy segítség voltatok!"
+horizontal_alignment = 1
+
+[node name="Space2" type="Control" parent="MarginContainer/VBoxContainer/Center2"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Label4" type="Label" parent="MarginContainer/VBoxContainer/Center2"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+text = "Készítette: Tóth Márton"
+horizontal_alignment = 1
+
+[node name="Space3" type="Control" parent="MarginContainer/VBoxContainer/Center2"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+
+[node name="Support" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -136.0
+offset_top = -76.0
+offset_right = 136.0
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(0.5, 0.5)
+pivot_offset = Vector2(136, 38)
+texture = ExtResource("2_n3eye")
+stretch_mode = 3
+
+[node name="LinkButton" type="LinkButton" parent="Support"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+uri = "https://www.buymeacoffee.com/ponticum"
+
+[node name="SotetMod" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_ui5tg")
+
+[node name="SotetLabel" type="Label" parent="SotetMod"]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Mire számítottál?"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Button" type="Button" parent="SotetMod"]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="SotetTimer" type="Timer" parent="SotetMod"]
+unique_name_in_owner = true
+wait_time = 3.0
+one_shot = true
+
+[node name="GyorsWarn" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_amrju")
+
+[node name="PanelContainer" type="PanelContainer" parent="GyorsWarn"]
+custom_minimum_size = Vector2(300, 200)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -6.0
+offset_top = -6.0
+offset_right = 6.0
+offset_bottom = 6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_g867a")
+
+[node name="MarginContainer" type="MarginContainer" parent="GyorsWarn/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="VBoxContainer" type="VBoxContainer" parent="GyorsWarn/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="GyorsWarn/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "Ha a Gyors módot használod,
+mindig az irányítószámmal kezdd!
+És a virt. billentyűzet ENTER-ével
+tudsz továbbhaladni.
+(Csak így fog működni.)"
+horizontal_alignment = 1
+
+[node name="GyorsOke" type="Button" parent="GyorsWarn/PanelContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+text = "Oké"
+
+[node name="Loading" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_uwlxb")
+
+[node name="Control" type="Control" parent="Loading"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Sprite2D" type="Sprite2D" parent="Loading/Control"]
+unique_name_in_owner = true
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("3_0o8ly")
+hframes = 10
+vframes = 3
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Top/Back" to="." method="_on_back_pressed"]
+[connection signal="item_selected" from="MarginContainer/VBoxContainer/Center1/Varos/City" to="." method="_on_city_item_selected"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center1/Uzenetek/MarginContainer/HBoxContainer/SotetButton" to="." method="_on_sotet_button_pressed"]
+[connection signal="toggled" from="MarginContainer/VBoxContainer/Center1/Gyors/PanelContainer/MarginContainer/HBoxContainer/GyorsButton" to="." method="_on_gyors_button_toggled"]
+[connection signal="pressed" from="SotetMod/Button" to="." method="_on_button_pressed"]
+[connection signal="timeout" from="SotetMod/SotetTimer" to="." method="_on_sotet_timer_timeout"]
+[connection signal="pressed" from="GyorsWarn/PanelContainer/MarginContainer/VBoxContainer/GyorsOke" to="." method="_on_gyors_oke_pressed"]

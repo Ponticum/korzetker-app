@@ -1,0 +1,131 @@
+[gd_scene load_steps=6 format=3 uid="uid://7rvuemxybt2"]
+
+[ext_resource type="Script" path="res://main/utcanev.gd" id="1_6gv1i"]
+[ext_resource type="Texture2D" uid="uid://dve5vgi3gt0y2" path="res://mats/sprites/loading.png" id="2_5xidf"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vww36"]
+content_margin_left = 10.0
+bg_color = Color(0.956863, 0.956863, 0.956863, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mirm2"]
+content_margin_left = 6.0
+content_margin_top = 6.0
+content_margin_right = 6.0
+content_margin_bottom = 6.0
+bg_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uhln3"]
+bg_color = Color(0, 0, 0, 0.588235)
+
+[node name="Utcanev" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_6gv1i")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="MarginContainer"]
+custom_minimum_size = Vector2(0, 32)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 20
+text = "Utcanév"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="Top" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Back" type="Button" parent="MarginContainer/VBoxContainer/Top"]
+layout_mode = 2
+text = " < Vissza "
+
+[node name="Space" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+
+[node name="Center" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="SearchBar" type="LineEdit" parent="MarginContainer/VBoxContainer/Center"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxFlat_vww36")
+placeholder_text = "Keresés"
+
+[node name="Space2" type="Control" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_mirm2")
+
+[node name="Results" type="ScrollContainer" parent="MarginContainer/VBoxContainer/Center/PanelContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="Loading" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_uhln3")
+
+[node name="Control" type="Control" parent="Loading"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Sprite2D" type="Sprite2D" parent="Loading/Control"]
+unique_name_in_owner = true
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_5xidf")
+hframes = 10
+vframes = 3
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Top/Back" to="." method="_on_back_pressed"]
+[connection signal="text_changed" from="MarginContainer/VBoxContainer/Center/SearchBar" to="." method="_on_search_bar_text_changed"]
+[connection signal="text_submitted" from="MarginContainer/VBoxContainer/Center/SearchBar" to="." method="_on_search_bar_text_submitted"]

@@ -1,0 +1,643 @@
+[gd_scene load_steps=24 format=3 uid="uid://bhd3q86v5c307"]
+
+[ext_resource type="Script" path="res://main/app.gd" id="1_4pxjy"]
+[ext_resource type="Script" path="res://main/search_logic.gd" id="2_jcj2i"]
+[ext_resource type="Texture2D" uid="uid://dqm7bhv7r5k07" path="res://mats/sprites/mkkp_logo.png" id="3_2lny6"]
+[ext_resource type="Script" path="res://main/message_system.gd" id="3_tedr7"]
+[ext_resource type="Texture2D" uid="uid://d18yln7um6rrd" path="res://mats/sprites/settings.png" id="4_g6x4e"]
+[ext_resource type="Shader" path="res://mats/shaders/rainbow.gdshader" id="5_vc8wm"]
+[ext_resource type="Texture2D" uid="uid://5jsp17bo8av" path="res://mats/sprites/white-arrow.png" id="6_shbes"]
+[ext_resource type="Texture2D" uid="uid://dve5vgi3gt0y2" path="res://mats/sprites/loading.png" id="7_jnbyy"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ifx65"]
+content_margin_left = 6.0
+content_margin_top = 6.0
+content_margin_right = 6.0
+content_margin_bottom = 6.0
+bg_color = Color(0.333333, 0.541176, 0.772549, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ks4cl"]
+bg_color = Color(0, 0, 0, 0)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.839216, 0, 0.117647, 1)
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8iqg5"]
+bg_color = Color(0.956863, 0.956863, 0.956863, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 6
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vuh8n"]
+bg_color = Color(0.9, 0.9, 0.9, 1)
+border_width_left = 3
+border_width_top = 6
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_40mgx"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_i7i28"]
+bg_color = Color(0.2, 0.2, 0.2, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 6
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uwogo"]
+bg_color = Color(0.2, 0.2, 0.2, 1)
+border_width_left = 3
+border_width_top = 6
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="Animation" id="Animation_2m24s"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("%RRedBorder:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_08cbd"]
+resource_name = "blinking"
+length = 2.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("%RRedBorder:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1, 2),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1), Color(1, 1, 1, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_dftgj"]
+_data = {
+"RESET": SubResource("Animation_2m24s"),
+"blinking": SubResource("Animation_08cbd")
+}
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_venhb"]
+bg_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_4j70n"]
+shader = ExtResource("5_vc8wm")
+shader_parameter/density = 0.001
+shader_parameter/speed = 0.25
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bavfd"]
+bg_color = Color(0, 0, 0, 0.588235)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jgcwt"]
+bg_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.956863, 0.956863, 0.956863, 1)
+border_blend = true
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_right = 6
+corner_radius_bottom_left = 6
+shadow_size = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yh3gg"]
+bg_color = Color(0, 0, 0, 0.588235)
+
+[node name="App" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_4pxjy")
+
+[node name="SearchLogic" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("2_jcj2i")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="Top" type="Control" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+mouse_filter = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/VBoxContainer/Top"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="Title" type="Label" parent="MarginContainer/VBoxContainer/Top/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.956863, 0.956863, 0.956863, 1)
+theme_override_colors/font_outline_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_constants/outline_size = 10
+theme_override_font_sizes/font_size = 30
+text = "Körzetkereső"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Top/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="City" type="Label" parent="MarginContainer/VBoxContainer/Top/VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(0.0627451, 0.0627451, 0.0627451, 1)
+theme_override_font_sizes/font_size = 25
+text = "- Budapest -"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Settings" type="Button" parent="MarginContainer/VBoxContainer/Top"]
+z_index = 1
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -32.0
+offset_top = -16.0
+offset_bottom = 16.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 8
+size_flags_vertical = 4
+icon = ExtResource("4_g6x4e")
+icon_alignment = 1
+
+[node name="WelArrow" type="TextureRect" parent="MarginContainer/VBoxContainer/Top/Settings"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 0
+offset_left = -180.0
+offset_top = 32.0
+offset_right = 8.0
+offset_bottom = 135.0
+rotation = -0.349066
+texture = ExtResource("6_shbes")
+
+[node name="Center" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Space1" type="Control" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+
+[node name="1" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="Utcanev" type="Button" parent="MarginContainer/VBoxContainer/Center/1"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Utcanév"
+
+[node name="IranyBlock" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center/1/Utcanev"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_ifx65")
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Center/1/Utcanev/IranyBlock"]
+layout_mode = 2
+text = "ⓘ Először add meg az irányítószámot"
+horizontal_alignment = 1
+
+[node name="2" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="Iranyito" type="LineEdit" parent="MarginContainer/VBoxContainer/Center/2"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "Irányítószám"
+alignment = 1
+virtual_keyboard_type = 2
+caret_blink = true
+
+[node name="IRedBorder" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center/2/Iranyito"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_ks4cl")
+
+[node name="Hazszam" type="LineEdit" parent="MarginContainer/VBoxContainer/Center/2"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "Házszám"
+alignment = 1
+virtual_keyboard_type = 2
+caret_blink = true
+
+[node name="HRedBorder" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center/2/Hazszam"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_ks4cl")
+
+[node name="LButton" type="Button" parent="MarginContainer/VBoxContainer/Center/2/Hazszam"]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -18.0
+offset_top = -16.0
+offset_bottom = 16.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.639216, 0.635294, 0.643137, 1)
+theme_override_colors/font_pressed_color = Color(0.639216, 0.635294, 0.643137, 1)
+theme_override_colors/font_hover_color = Color(0.639216, 0.635294, 0.643137, 1)
+theme_override_colors/font_focus_color = Color(0.639216, 0.635294, 0.643137, 1)
+theme_override_colors/font_hover_pressed_color = Color(0.639216, 0.635294, 0.643137, 1)
+theme_override_styles/normal = SubResource("StyleBoxFlat_8iqg5")
+theme_override_styles/hover = SubResource("StyleBoxFlat_8iqg5")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_vuh8n")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_40mgx")
+text = " ⌨️ "
+
+[node name="3" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="Kereses" type="Button" parent="MarginContainer/VBoxContainer/Center/3"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.956863, 0.956863, 0.956863, 1)
+theme_override_colors/font_pressed_color = Color(0.956863, 0.956863, 0.956863, 1)
+theme_override_colors/font_hover_color = Color(0.956863, 0.956863, 0.956863, 1)
+theme_override_colors/font_focus_color = Color(0.956863, 0.956863, 0.956863, 1)
+theme_override_styles/normal = SubResource("StyleBoxFlat_i7i28")
+theme_override_styles/hover = SubResource("StyleBoxFlat_i7i28")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_uwogo")
+text = "[Keresés]"
+
+[node name="Space2" type="Control" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 45)
+layout_mode = 2
+
+[node name="Results" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center"]
+layout_mode = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center/Results"]
+custom_minimum_size = Vector2(0, 80)
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/VBoxContainer/Center/Results/PanelContainer"]
+layout_mode = 2
+
+[node name="ResLabel" type="Label" parent="MarginContainer/VBoxContainer/Center/Results/PanelContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 6
+theme_override_font_sizes/font_size = 30
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Space3" type="Control" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+
+[node name="VBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Center"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+
+[node name="Reset" type="Button" parent="MarginContainer/VBoxContainer/Center/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.839216, 0, 0.117647, 1)
+theme_override_colors/font_pressed_color = Color(0.839216, 0, 0.117647, 1)
+theme_override_colors/font_hover_color = Color(0.839216, 0, 0.117647, 1)
+theme_override_colors/font_focus_color = Color(0.839216, 0, 0.117647, 1)
+text = "Reset"
+
+[node name="RRedBorder" type="PanelContainer" parent="MarginContainer/VBoxContainer/Center/VBoxContainer/Reset"]
+unique_name_in_owner = true
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_ks4cl")
+
+[node name="ResetAnimator" type="AnimationPlayer" parent="MarginContainer/VBoxContainer/Center/VBoxContainer/Reset"]
+unique_name_in_owner = true
+libraries = {
+"": SubResource("AnimationLibrary_dftgj")
+}
+
+[node name="Debug" type="Button" parent="MarginContainer/VBoxContainer/Center/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Debug >"
+
+[node name="Bottom" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 30)
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Version" type="Label" parent="MarginContainer/VBoxContainer/Bottom"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 32)
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -17.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.301961, 0.317647, 0.337255, 1)
+theme_override_font_sizes/font_size = 15
+horizontal_alignment = 2
+vertical_alignment = 2
+
+[node name="MessageSystem" type="PanelContainer" parent="MarginContainer/VBoxContainer/Bottom"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -32.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_vertical = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_venhb")
+script = ExtResource("3_tedr7")
+
+[node name="Rainbow" type="Panel" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem"]
+unique_name_in_owner = true
+visible = false
+material = SubResource("ShaderMaterial_4j70n")
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem"]
+layout_mode = 2
+
+[node name="Space" type="Control" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem/HBoxContainer"]
+layout_mode = 2
+
+[node name="Timer" type="Timer" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem/HBoxContainer"]
+unique_name_in_owner = true
+wait_time = 3.0
+one_shot = true
+
+[node name="Icon" type="TextureRect" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/Bottom/MessageSystem/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_top = -320.0
+offset_right = 360.0
+offset_bottom = 320.0
+grow_vertical = 2
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("3_2lny6")
+
+[node name="LogoButton" type="Button" parent="."]
+modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 10.0
+offset_top = -285.0
+offset_right = 70.0
+offset_bottom = -225.0
+grow_vertical = 2
+
+[node name="LogoTimer" type="Timer" parent="LogoButton"]
+unique_name_in_owner = true
+wait_time = 3.0
+one_shot = true
+
+[node name="Welcome" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_bavfd")
+
+[node name="PanelContainer" type="PanelContainer" parent="Welcome"]
+custom_minimum_size = Vector2(300, 300)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -6.0
+offset_top = -6.0
+offset_right = 6.0
+offset_bottom = 6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_jgcwt")
+
+[node name="MarginContainer" type="MarginContainer" parent="Welcome/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Welcome/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Welcome/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "Köszi, hogy segítesz
+nekünk aláírást gyűjteni!
+
+A beállításokban be tudod állítani
+a városodat. Mindig legyen nálatok
+alternatív megoldás is
+(lásd: beállítások), mert az appból
+hiányozhatnak adatok!
+De cserébe offline is működik.
+Sok szerencsét :D"
+horizontal_alignment = 1
+
+[node name="WelButton" type="Button" parent="Welcome/PanelContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+text = "Oké"
+
+[node name="Loading" type="Panel" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_yh3gg")
+
+[node name="Control" type="Control" parent="Loading"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Sprite2D" type="Sprite2D" parent="Loading/Control"]
+unique_name_in_owner = true
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("7_jnbyy")
+hframes = 10
+vframes = 3
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Top/Settings" to="." method="_on_settings_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center/1/Utcanev" to="." method="_on_utcanev_pressed"]
+[connection signal="focus_entered" from="MarginContainer/VBoxContainer/Center/2/Iranyito" to="." method="_on_iranyito_focus_entered"]
+[connection signal="focus_exited" from="MarginContainer/VBoxContainer/Center/2/Iranyito" to="." method="_on_iranyito_focus_exited"]
+[connection signal="text_changed" from="MarginContainer/VBoxContainer/Center/2/Iranyito" to="." method="_on_iranyito_text_changed"]
+[connection signal="text_submitted" from="MarginContainer/VBoxContainer/Center/2/Iranyito" to="." method="_on_iranyito_text_submitted"]
+[connection signal="focus_entered" from="MarginContainer/VBoxContainer/Center/2/Hazszam" to="." method="_on_hazszam_focus_entered"]
+[connection signal="focus_exited" from="MarginContainer/VBoxContainer/Center/2/Hazszam" to="." method="_on_hazszam_focus_exited"]
+[connection signal="text_changed" from="MarginContainer/VBoxContainer/Center/2/Hazszam" to="." method="_on_hazszam_text_changed"]
+[connection signal="text_submitted" from="MarginContainer/VBoxContainer/Center/2/Hazszam" to="." method="_on_hazszam_text_submitted"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center/2/Hazszam/LButton" to="." method="_on_l_button_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center/3/Kereses" to="." method="_on_kereses_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center/VBoxContainer/Reset" to="." method="_on_reset_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Center/VBoxContainer/Debug" to="." method="_on_debug_pressed"]
+[connection signal="timeout" from="MarginContainer/VBoxContainer/Bottom/MessageSystem/HBoxContainer/Timer" to="MarginContainer/VBoxContainer/Bottom/MessageSystem" method="_on_timer_timeout"]
+[connection signal="button_down" from="LogoButton" to="." method="_on_logo_button_pressed"]
+[connection signal="timeout" from="LogoButton/LogoTimer" to="." method="_on_logo_timer_timeout"]
+[connection signal="pressed" from="Welcome/PanelContainer/MarginContainer/VBoxContainer/WelButton" to="." method="_on_wel_button_pressed"]

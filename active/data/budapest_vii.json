@@ -1,0 +1,9830 @@
+[
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000022-0024"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000030\/A"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000030\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000003\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000006\/A"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000006\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000012\/A"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000012\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000014"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000016"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000018"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000020"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000022"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000024"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000026"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000028"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000001\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000001\/C"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000002-0004"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000016-0018"
+ },
+ {
+  "ker": 1,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000001"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000003\/A"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000003\/C"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000007"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000004"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000016-0018"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Síp",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Asbóth",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 1,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000003-0009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000012-0014"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Holló",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000001\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000001\/E"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000013-0015"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000021"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000023"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Károly",
+  "jel": "körút",
+  "hsz": "000025"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "tér",
+  "hsz": "000003"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "tér",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "tér",
+  "hsz": "000006"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "tér",
+  "hsz": "000007"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000001"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000002-0006"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000003"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000005"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000008"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000010"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000011"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Madách Imre",
+  "jel": "út",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000011-0013"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000015\/A"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000015\/B"
+ },
+ {
+  "ker": 1,
+  "pir": 1075,
+  "nev": "Rumbach Sebestyén",
+  "jel": "utca",
+  "hsz": "000020-0022"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000002"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000004"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000036"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000038"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000040"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000042"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000044"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000009\/B"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000012-0014"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000027-0029"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000056"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000058-0062"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000064"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000066"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000068"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000031\/A"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000031\/B"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000042-0044"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000001"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000003"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000004"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000005"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000007"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000026-0028"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kéthly Anna",
+  "jel": "tér",
+  "hsz": "000001"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000010-0012"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000025-0027"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000026-0028"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000030-0032"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nagy Diófa",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Nyár",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000056"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000058"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000060"
+ },
+ {
+  "ker": 2,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000062"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000009-0011"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Csányi",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000028-0030"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000034-0036"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000046\/A"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000046\/B"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 2,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000037-0041"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 2,
+  "pir": 1075,
+  "nev": "Kazinczy",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000035-0037"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000043-0045"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 2,
+  "pir": 1077,
+  "nev": "Kis Diófa",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000008"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000009"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000010"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000011"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000012"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000013"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000014"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000015"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "tér",
+  "hsz": "000016"
+ },
+ {
+  "ker": 2,
+  "pir": 1072,
+  "nev": "Klauzál",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000037-0039"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000059"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000024-0028"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000038-0040"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000042-0044"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000063"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Akácfa",
+  "jel": "utca",
+  "hsz": "000065"
+ },
+ {
+  "ker": 3,
+  "pir": 1072,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000060"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000066"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000068"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000070"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000041"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000043-0049"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000044-0046"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000048"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000050"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000051"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000052"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000053"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000054"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000056"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000058"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000065"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000067"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kürt",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kürt",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Kürt",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000072"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000074"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000076"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000078"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000080"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000082"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000084"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000085"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000086"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000087"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000090"
+ },
+ {
+  "ker": 3,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000092"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000053-0055"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000059\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000059\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000069"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000073"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000075"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000077"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000079"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000081"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000010\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000011\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000011\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000012\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000012\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000016-18\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000018\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000036-0038"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000085"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000087"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000089"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000091"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000093"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000095"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000097"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000099"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000101"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Király",
+  "jel": "utca",
+  "hsz": "000103"
+ },
+ {
+  "ker": 3,
+  "pir": 1071,
+  "nev": "Lövölde",
+  "jel": "tér",
+  "hsz": "000007"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000066"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000038\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000038\/B"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000040\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 3,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000047\/A"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 3,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000015"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000016"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000017"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000018"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Csengery",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000089"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000093"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000003\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000003\/B"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000004\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000004\/B"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Vörösmarty",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000056"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000058"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000094-0096"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000095"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000097"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000098"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000100"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000101"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000103"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000104"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Hevesi Sándor",
+  "jel": "tér",
+  "hsz": "000001"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Hevesi Sándor",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Hevesi Sándor",
+  "jel": "tér",
+  "hsz": "000003"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Hevesi Sándor",
+  "jel": "tér",
+  "hsz": "000004"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000027\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000027\/B"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Rejtő Jenő",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 4,
+  "pir": 1074,
+  "nev": "Rejtő Jenő",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rejtő Jenő",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rejtő Jenő",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rejtő Jenő",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000018\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000018\/B"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000060"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000066"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000106"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000107"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000108"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000109"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000110"
+ },
+ {
+  "ker": 4,
+  "pir": 1073,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000112"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Jósika",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000062"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000064"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000023-0025"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000072"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000074"
+ },
+ {
+  "ker": 4,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000076"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bajza",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bajza",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bajza",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bajza",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bajza",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000008-0010"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000026\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000026\/B"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Lövölde",
+  "jel": "tér",
+  "hsz": "000001"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Lövölde",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Lövölde",
+  "jel": "tér",
+  "hsz": "000002\/A"
+ },
+ {
+  "ker": 4,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000062"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000043-0045"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000003"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000005-0007"
+ },
+ {
+  "ker": 4,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000009-0013"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000063"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000069"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000071"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Dob",
+  "jel": "utca",
+  "hsz": "000073"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000019"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000021"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000023"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000025-0027"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000026"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000028"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000029"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000030"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000031"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000032"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000033"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000034"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000035"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000036"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000037"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000038"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000039"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000040-0042"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Kertész",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000006"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000007"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000008"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000074"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000078"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000080"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000082"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000084"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000086"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000088"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000012"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000013"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000014"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000015"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000016"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000017"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000018"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000020"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000022"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000024"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000028\/A"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000003"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000010"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000011"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000012"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Almássy",
+  "jel": "tér",
+  "hsz": "000013"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000026-0028"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000030"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000032"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000034"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000036"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 5,
+  "pir": 1073,
+  "nev": "Barcsay",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000090"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000092"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000094"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000096"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000028\/B"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000029-0031"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000030\/A"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000030\/B"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000030\/C"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Tivadar",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000059"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000063"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000104-0106"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hutyra Ferenc",
+  "jel": "utca",
+  "hsz": "000006-0008"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hutyra Ferenc",
+  "jel": "utca",
+  "hsz": "000011-0015"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Hutyra Ferenc",
+  "jel": "utca",
+  "hsz": "000014-0016"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000003\/A"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000003\/B"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Izabella",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000009\/A"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000009\/B"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000010-0012"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Rózsa",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 5,
+  "pir": 1074,
+  "nev": "Rózsák",
+  "jel": "tere",
+  "hsz": "000001"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000065"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000067"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000069"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000071"
+ },
+ {
+  "ker": 5,
+  "pir": 1077,
+  "nev": "Wesselényi",
+  "jel": "utca",
+  "hsz": "000075"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Barát",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000059"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000063\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000065"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000067"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000069"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000001-0003"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Erzsébet",
+  "jel": "körút",
+  "hsz": "000009-0011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000005-0007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000009-0011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000010\/A"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000010\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000010\/C"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Hársfa",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000002-0008"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 6,
+  "pir": 1073,
+  "nev": "Osvát",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000048-0050"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000052"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000054"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000058"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000060"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000062"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000064"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000068"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000002\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000002\/C"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000010-0012"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000014-0016"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000001\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000010"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000012"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000014-0016"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000018"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000020"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000022"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000071"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000073-0075"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000077"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000003\/A"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000003\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000070-0072"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000074-0076"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000078"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000080"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000082"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000005-0007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Szövetség",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Alsó",
+  "jel": "erdősor",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000081"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Dohány",
+  "jel": "utca",
+  "hsz": "000083-0085"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000007-0009"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Huszár",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000007\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Munkás",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000004\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000005\/B"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000005\/C"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000016-0022"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rákóczi",
+  "jel": "út",
+  "hsz": "000086"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rózsák",
+  "jel": "tere",
+  "hsz": "000006-0007"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rózsák",
+  "jel": "tere",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1074,
+  "nev": "Rózsák",
+  "jel": "tere",
+  "hsz": "000009-0010"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000012"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000013"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000014"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000015"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000016"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000017"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000018"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000019"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Baross",
+  "jel": "tér",
+  "hsz": "000020-0021"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000013-015A"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 6,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 6,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 6,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000002"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000004"
+ },
+ {
+  "ker": 6,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000006"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 7,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 7,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 7,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000029\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000056"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000058"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000059"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000025\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000025\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000025\/C"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000028\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000028\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000031\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000031\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000056\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000056\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000063"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000065"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000017"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000023"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000029"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000031"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000033"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000054"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000056"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000058"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000080"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000080\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000082\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000035\/A"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000035\/B"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000035\/C"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000037"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000039-0041"
+ },
+ {
+  "ker": 7,
+  "pir": 1071,
+  "nev": "Városligeti",
+  "jel": "fasor",
+  "hsz": "000045"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Bethlen Gábor",
+  "jel": "tér",
+  "hsz": "000003"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Bethlen Gábor",
+  "jel": "utca",
+  "hsz": "000021-0023"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000008-0020"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000017-0019"
+ },
+ {
+  "ker": 8,
+  "pir": 1077,
+  "nev": "Rottenbiller",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000023-0025"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000027-0029"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 8,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 8,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000042-0046"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 8,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000041-0043"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Damjanich",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000070"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000072"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000074"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000055"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000057"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000059"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000061"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Peterdy",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000043"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000046"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dembinszky",
+  "jel": "utca",
+  "hsz": "000052"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000062"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000064"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000066"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000068"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 9,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000058"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000028"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000030"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000036"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000038"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000040"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Marek József",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000032"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000034"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000041"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000016-0018"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000027"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000029"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000031"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000041-0043"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000022"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000024"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000025"
+ },
+ {
+  "ker": 9,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000026"
+ },
+ {
+  "ker": 9,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000042"
+ },
+ {
+  "ker": 9,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000044"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Alpár",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Alpár",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000019"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000021"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000023"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000036"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000038"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000040"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000042"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000044"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000046"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000050"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000052"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000054"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000011"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000012"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000013-0014"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000015"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000047"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000049"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "István",
+  "jel": "utca",
+  "hsz": "000053"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Sajó",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Sajó",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Sajó",
+  "jel": "utca",
+  "hsz": "000004-0008"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Sajó",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000002"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000003-0004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000016"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000017"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000018"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000019"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000020"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000029-0031"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000033"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000035"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000037"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000039"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000045"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000048"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "utca",
+  "hsz": "000050"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000008"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Hernád",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Nefelejcs",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Péterfy Sándor",
+  "jel": "utca",
+  "hsz": "000051"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000008"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000010"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000012"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000014"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000016"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000018"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000020"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000022"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000024"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Alpár",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Alpár",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000007"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Cserhát",
+  "jel": "utca",
+  "hsz": "000009"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000032"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000034"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000008"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Garay",
+  "jel": "tér",
+  "hsz": "000009"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000013"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000015"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000017"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000002-0004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Szinva",
+  "jel": "utca",
+  "hsz": "000003"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Százház",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Százház",
+  "jel": "utca",
+  "hsz": "000010-0018"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Százház",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000009"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000011"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000013"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000015"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000017"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000019"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000021"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000023"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000025"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000026"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000027"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000028"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000030"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000032"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000034"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000040"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000042"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000006"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000008"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000010"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000012"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000014"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000016"
+ },
+ {
+  "ker": 10,
+  "pir": 1071,
+  "nev": "Dózsa György",
+  "jel": "út",
+  "hsz": "000018-0024"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Jobbágy",
+  "jel": "utca",
+  "hsz": "000005-0009"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Jobbágy",
+  "jel": "utca",
+  "hsz": "000011"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000001"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000002"
+ },
+ {
+  "ker": 10,
+  "pir": 1078,
+  "nev": "Murányi",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Százház",
+  "jel": "utca",
+  "hsz": "000029-0037"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000001-0003"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000005"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Thököly",
+  "jel": "út",
+  "hsz": "000007"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000004"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000006"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000010"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000012"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000014"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000016"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000018"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000020"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000022-0024"
+ },
+ {
+  "ker": 10,
+  "pir": 1076,
+  "nev": "Verseny",
+  "jel": "utca",
+  "hsz": "000026"
+ }
+]
